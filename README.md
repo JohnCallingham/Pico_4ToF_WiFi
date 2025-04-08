@@ -13,5 +13,3 @@ Notes:
 - The second I2C interface is used to avoid any conflict with the first SPI interface which is used for WiFi.
 - The two Adafruit libraries (Adafruit_I2CDevice and Adafruit_VL6180X) are included in the src folder as they are not available in the PlatformIO system.
 
-
-
